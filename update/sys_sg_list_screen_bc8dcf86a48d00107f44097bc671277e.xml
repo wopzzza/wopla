@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description> Wopla</description>
+        <dynamic_prefetch_count/>
+        <fetch_type>not_required</fetch_type>
+        <hide_filters>false</hide_filters>
+        <icon display_value="icon-Address-Book">788d4f86a48d00107f44097bc6712731</icon>
+        <name>Woplas</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:07:00</sys_created_on>
+        <sys_id>bc8dcf86a48d00107f44097bc671277e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Woplas</sys_name>
+        <sys_package display_value="wopla" source="x_snc_wopla">45abc346a48d00107f44097bc671275c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wopla">45abc346a48d00107f44097bc671275c</sys_scope>
+        <sys_update_name>sys_sg_list_screen_bc8dcf86a48d00107f44097bc671277e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:07:00</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=bc8dcf86a48d00107f44097bc671277e"/>
+</record_update>

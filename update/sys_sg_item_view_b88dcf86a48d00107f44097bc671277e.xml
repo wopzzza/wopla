@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item display_value="wopla Wopla">7c8d4f86a48d00107f44097bc6712734</data_item>
+        <dependency_fields>message,number,seen</dependency_fields>
+        <item_view_json>{"Alignment":"Stretch","Children":[{"Alignment":"Stretch","Children":[{"Alignment":"Left","Children":[{"TextColor":"#293e40","Text":"","BackgroundColor":"#f1f1f1","Font":{"Size":13,"Weight":"semibold"},"CornerRadius":2,"CellId":"message","TextAlignment":"Center","MaxLines":1,"studio_template_field_id":"E1","Width":100,"Height":21,"Type":"Text"}],"Orientation":"Vertical","Distribution":"Auto","Margin":{"Right":12},"Type":"ViewGroup"},{"Alignment":"Right","Children":[{"TextColor":"#7d8a8c","Text":"","Font":{"Size":13,"Weight":"regular"},"CellId":"number","TextAlignment":"Right","MaxLines":1,"studio_template_field_id":"E2","Type":"Text"}],"Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Horizontal","Distribution":"Equal","Type":"ViewGroup"},{"TextColor":"#293e40","Text":"","Font":{"Size":18,"Weight":"regular"},"CellId":"seen","TextAlignment":"Left","MaxLines":2,"studio_template_field_id":"E3","Margin":{"Top":9},"Type":"Text"},{"Alignment":"Left","Children":[{"Alignment":"Center","Children":[{"TextColor":"#7d8a8c","studio_template_is_label":true,"Text":"","Font":{"Size":13,"Weight":"regular"},"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Margin":{"Right":8},"Type":"Text"},{"CornerRadius":11,"CellId":"","Scaling":"Fill","studio_template_field_id":"E5","Width":22,"Height":22,"Margin":{"Right":6},"Type":"Image"},{"TextColor":"#293e40","Text":"","Font":{"Size":13,"Weight":"regular"},"CellId":"","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E4","Type":"Text"}],"Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":9},"Type":"ViewGroup"},{"Alignment":"Center","Children":[{"TextColor":"#7d8a8c","studio_template_is_label":true,"Text":"","Font":{"Size":13,"Weight":"regular"},"TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Margin":{"Right":8},"Type":"Text"},{"TextColor":"#293e40","Text":"","Font":{"Size":13,"Weight":"regular"},"CellId":"","TextAlignment":"Left","MaxLines":1,"studio_template_field_id":"E6","Type":"Text"}],"Orientation":"Horizontal","Distribution":"Auto","Margin":{"Top":7},"Type":"ViewGroup"}],"Orientation":"Vertical","Distribution":"Auto","Type":"ViewGroup"}],"Orientation":"Vertical","Distribution":"Auto","studio_card_id":"9599488923452300a8ed7f4fc7bf652e","Margin":{"Top":17,"Bottom":15},"Type":"ViewGroup"}</item_view_json>
+        <name>Wopla Detail Screen Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:07:00</sys_created_on>
+        <sys_id>b88dcf86a48d00107f44097bc671277e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wopla Detail Screen Item View</sys_name>
+        <sys_package display_value="wopla" source="x_snc_wopla">45abc346a48d00107f44097bc671275c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wopla">45abc346a48d00107f44097bc671275c</sys_scope>
+        <sys_update_name>sys_sg_item_view_b88dcf86a48d00107f44097bc671277e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:07:00</sys_updated_on>
+        <table>x_snc_wopla_wopla</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+    <sys_translated_text action="delete_multiple" query="documentkey=b88dcf86a48d00107f44097bc671277e"/>
+</record_update>

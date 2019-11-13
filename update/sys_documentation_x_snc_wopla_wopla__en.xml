@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Wopla" language="en" table="x_snc_wopla_wopla">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Wopla</label>
+            <language>en</language>
+            <name>x_snc_wopla_wopla</name>
+            <plural>Woplas</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-11-13 00:05:20</sys_created_on>
+            <sys_id>642d8b86a48d00107f44097bc67127ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Wopla</sys_name>
+            <sys_package display_value="wopla" source="x_snc_wopla">45abc346a48d00107f44097bc671275c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="wopla">45abc346a48d00107f44097bc671275c</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_wopla_wopla__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-11-13 00:05:20</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

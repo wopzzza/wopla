@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="wopla Wopla">7c8d4f86a48d00107f44097bc6712734</data_item>
+        <interleaved_field/>
+        <name>Wopla Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:07:00</sys_created_on>
+        <sys_id>348dcf86a48d00107f44097bc6712781</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wopla Item Stream</sys_name>
+        <sys_package display_value="wopla" source="x_snc_wopla">45abc346a48d00107f44097bc671275c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wopla">45abc346a48d00107f44097bc671275c</sys_scope>
+        <sys_update_name>sys_sg_item_stream_348dcf86a48d00107f44097bc6712781</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:07:00</sys_updated_on>
+        <table/>
+    </sys_sg_item_stream>
+</record_update>

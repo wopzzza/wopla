@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Wopla" max_length="40" name="x_snc_wopla_wopla" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Message" max_length="100" name="message" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Seen" max_length="40" name="seen" type="boolean"/>
+    </element>
+</database>

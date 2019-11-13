@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>wopla Wopla</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:07:00</sys_created_on>
+        <sys_id>7c8d4f86a48d00107f44097bc6712734</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>wopla Wopla</sys_name>
+        <sys_package display_value="wopla" source="x_snc_wopla">45abc346a48d00107f44097bc671275c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wopla">45abc346a48d00107f44097bc671275c</sys_scope>
+        <sys_update_name>sys_sg_data_item_7c8d4f86a48d00107f44097bc6712734</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:07:00</sys_updated_on>
+        <table>x_snc_wopla_wopla</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=7c8d4f86a48d00107f44097bc6712734"/>
+</record_update>

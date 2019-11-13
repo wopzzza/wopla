@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (Wopla)">858dcf86a48d00107f44097bc6712789</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New (Wopla)</name>
+        <order/>
+        <parent>bc8dcf86a48d00107f44097bc671277e</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:07:00</sys_created_on>
+        <sys_id>c58dcf86a48d00107f44097bc671278c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New (Wopla)</sys_name>
+        <sys_package display_value="wopla" source="x_snc_wopla">45abc346a48d00107f44097bc671275c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="wopla">45abc346a48d00107f44097bc671275c</sys_scope>
+        <sys_update_name>sys_sg_button_instance_c58dcf86a48d00107f44097bc671278c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:07:00</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c58dcf86a48d00107f44097bc671278c"/>
+</record_update>
